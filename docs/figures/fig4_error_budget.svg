@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="900" height="520" fill="white"/>
+<rect x="86" y="46" width="786" height="382" fill="white" stroke="#333" stroke-width="1"/>
+<line x1="86.00" y1="46.00" x2="86.00" y2="428.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="86.00" y1="428.00" x2="86.00" y2="433.00" stroke="#333" stroke-width="1.0"/>
+<text x="86.00" y="448.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0</text>
+<line x1="282.50" y1="46.00" x2="282.50" y2="428.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="282.50" y1="428.00" x2="282.50" y2="433.00" stroke="#333" stroke-width="1.0"/>
+<text x="282.50" y="448.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">1</text>
+<line x1="479.00" y1="46.00" x2="479.00" y2="428.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="479.00" y1="428.00" x2="479.00" y2="433.00" stroke="#333" stroke-width="1.0"/>
+<text x="479.00" y="448.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">2</text>
+<line x1="675.50" y1="46.00" x2="675.50" y2="428.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="675.50" y1="428.00" x2="675.50" y2="433.00" stroke="#333" stroke-width="1.0"/>
+<text x="675.50" y="448.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">3</text>
+<line x1="872.00" y1="46.00" x2="872.00" y2="428.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="872.00" y1="428.00" x2="872.00" y2="433.00" stroke="#333" stroke-width="1.0"/>
+<text x="872.00" y="448.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">4</text>
+<line x1="86.00" y1="428.00" x2="872.00" y2="428.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="81.00" y1="428.00" x2="86.00" y2="428.00" stroke="#333" stroke-width="1.0"/>
+<text x="77.00" y="432.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="end" fill="#222" font-weight="normal">0.000</text>
+<line x1="86.00" y1="309.52" x2="872.00" y2="309.52" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="81.00" y1="309.52" x2="86.00" y2="309.52" stroke="#333" stroke-width="1.0"/>
+<text x="77.00" y="313.52" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="end" fill="#222" font-weight="normal">0.020</text>
+<line x1="86.00" y1="191.04" x2="872.00" y2="191.04" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="81.00" y1="191.04" x2="86.00" y2="191.04" stroke="#333" stroke-width="1.0"/>
+<text x="77.00" y="195.04" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="end" fill="#222" font-weight="normal">0.040</text>
+<line x1="86.00" y1="72.56" x2="872.00" y2="72.56" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="81.00" y1="72.56" x2="86.00" y2="72.56" stroke="#333" stroke-width="1.0"/>
+<text x="77.00" y="76.56" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="end" fill="#222" font-weight="normal">0.060</text>
+<text x="18" y="237.0" font-size="14" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" transform="rotate(-90 18 237.0)">RMSE [N*m]</text>
+<text x="479.00" y="26.00" font-size="16" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#111" font-weight="bold">Error budget: cogging / temperature drift, before vs after compensation</text>
+<rect x="113.51" y="255.50" width="66.81" height="172.50" fill="#7f7f7f" stroke="none" stroke-width="1.0"/>
+<rect x="188.18" y="258.12" width="66.81" height="169.88" fill="#2ca02c" stroke="none" stroke-width="1.0"/>
+<text x="146.91" y="248.50" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.0291</text>
+<text x="221.59" y="251.12" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.0287</text>
+<text x="184.25" y="464.00" font-size="12.5" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">ideal</text>
+<rect x="310.01" y="227.34" width="66.81" height="200.66" fill="#7f7f7f" stroke="none" stroke-width="1.0"/>
+<rect x="384.68" y="259.03" width="66.81" height="168.97" fill="#2ca02c" stroke="none" stroke-width="1.0"/>
+<text x="343.41" y="220.34" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.0339</text>
+<text x="418.08" y="252.03" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.0285</text>
+<text x="380.75" y="464.00" font-size="12.5" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">cogging</text>
+<rect x="506.51" y="218.23" width="66.81" height="209.77" fill="#7f7f7f" stroke="none" stroke-width="1.0"/>
+<rect x="581.18" y="226.86" width="66.81" height="201.14" fill="#2ca02c" stroke="none" stroke-width="1.0"/>
+<text x="539.91" y="211.23" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.0354</text>
+<text x="614.59" y="219.86" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.0340</text>
+<text x="577.25" y="464.00" font-size="12.5" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">temp</text>
+<rect x="703.01" y="181.55" width="66.81" height="246.45" fill="#7f7f7f" stroke="none" stroke-width="1.0"/>
+<rect x="777.68" y="226.90" width="66.81" height="201.10" fill="#2ca02c" stroke="none" stroke-width="1.0"/>
+<text x="736.41" y="174.55" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.0416</text>
+<text x="811.09" y="219.90" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.0339</text>
+<text x="773.75" y="464.00" font-size="12.5" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">both</text>
+<rect x="650.00" y="56.00" width="250.00" height="56.00" fill="white" stroke="#bbb" stroke-width="1"/>
+<line x1="662" y1="72" x2="696" y2="72" stroke="#7f7f7f" stroke-width="2.4"/>
+<text x="704.00" y="76.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="start" fill="#222" font-weight="normal">no compensation</text>
+<line x1="662" y1="94" x2="696" y2="94" stroke="#2ca02c" stroke-width="2.4"/>
+<text x="704.00" y="98.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="start" fill="#222" font-weight="normal">with compensation</text>
+</svg>

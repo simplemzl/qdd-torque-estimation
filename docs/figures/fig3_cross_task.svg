@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+<rect width="1000" height="520" fill="white"/>
+<rect x="86" y="46" width="886" height="382" fill="white" stroke="#333" stroke-width="1"/>
+<line x1="86.00" y1="46.00" x2="86.00" y2="428.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="86.00" y1="428.00" x2="86.00" y2="433.00" stroke="#333" stroke-width="1.0"/>
+<text x="86.00" y="448.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0</text>
+<line x1="307.50" y1="46.00" x2="307.50" y2="428.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="307.50" y1="428.00" x2="307.50" y2="433.00" stroke="#333" stroke-width="1.0"/>
+<text x="307.50" y="448.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">1</text>
+<line x1="529.00" y1="46.00" x2="529.00" y2="428.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="529.00" y1="428.00" x2="529.00" y2="433.00" stroke="#333" stroke-width="1.0"/>
+<text x="529.00" y="448.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">2</text>
+<line x1="750.50" y1="46.00" x2="750.50" y2="428.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="750.50" y1="428.00" x2="750.50" y2="433.00" stroke="#333" stroke-width="1.0"/>
+<text x="750.50" y="448.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">3</text>
+<line x1="972.00" y1="46.00" x2="972.00" y2="428.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="972.00" y1="428.00" x2="972.00" y2="433.00" stroke="#333" stroke-width="1.0"/>
+<text x="972.00" y="448.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">4</text>
+<line x1="86.00" y1="428.00" x2="972.00" y2="428.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="81.00" y1="428.00" x2="86.00" y2="428.00" stroke="#333" stroke-width="1.0"/>
+<text x="77.00" y="432.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="end" fill="#222" font-weight="normal">0.000</text>
+<line x1="86.00" y1="350.66" x2="972.00" y2="350.66" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="81.00" y1="350.66" x2="86.00" y2="350.66" stroke="#333" stroke-width="1.0"/>
+<text x="77.00" y="354.66" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="end" fill="#222" font-weight="normal">0.025</text>
+<line x1="86.00" y1="273.32" x2="972.00" y2="273.32" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="81.00" y1="273.32" x2="86.00" y2="273.32" stroke="#333" stroke-width="1.0"/>
+<text x="77.00" y="277.32" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="end" fill="#222" font-weight="normal">0.050</text>
+<line x1="86.00" y1="195.98" x2="972.00" y2="195.98" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="81.00" y1="195.98" x2="86.00" y2="195.98" stroke="#333" stroke-width="1.0"/>
+<text x="77.00" y="199.98" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="end" fill="#222" font-weight="normal">0.075</text>
+<line x1="86.00" y1="118.64" x2="972.00" y2="118.64" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="81.00" y1="118.64" x2="86.00" y2="118.64" stroke="#333" stroke-width="1.0"/>
+<text x="77.00" y="122.64" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="end" fill="#222" font-weight="normal">0.100</text>
+<text x="18" y="237.0" font-size="14" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" transform="rotate(-90 18 237.0)">RMSE [N*m]</text>
+<text x="529.00" y="26.00" font-size="16" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#111" font-weight="bold">Identification regime vs. accuracy, across 4 tasks</text>
+<rect x="108.15" y="337.92" width="53.16" height="90.08" fill="#2ca02c" stroke="none" stroke-width="1.0"/>
+<text x="134.73" y="330.92" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.029</text>
+<rect x="167.22" y="286.01" width="53.16" height="141.99" fill="#ff7f0e" stroke="none" stroke-width="1.0"/>
+<text x="193.80" y="279.01" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.046</text>
+<rect x="226.28" y="336.24" width="53.16" height="91.76" fill="#1f77b4" stroke="none" stroke-width="1.0"/>
+<text x="252.86" y="329.24" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.030</text>
+<text x="196.75" y="464.00" font-size="12.5" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">T1  multisine 0.3/1.1 Hz</text>
+<rect x="329.65" y="362.12" width="53.16" height="65.88" fill="#2ca02c" stroke="none" stroke-width="1.0"/>
+<text x="356.23" y="355.12" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.021</text>
+<rect x="388.72" y="313.24" width="53.16" height="114.76" fill="#ff7f0e" stroke="none" stroke-width="1.0"/>
+<text x="415.30" y="306.24" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.037</text>
+<rect x="447.78" y="358.09" width="53.16" height="69.91" fill="#1f77b4" stroke="none" stroke-width="1.0"/>
+<text x="474.36" y="351.09" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.023</text>
+<text x="418.25" y="464.00" font-size="12.5" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">T2  single sine 0.5 Hz</text>
+<rect x="551.15" y="339.99" width="53.16" height="88.01" fill="#2ca02c" stroke="none" stroke-width="1.0"/>
+<text x="577.73" y="332.99" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.028</text>
+<rect x="610.22" y="299.33" width="53.16" height="128.67" fill="#ff7f0e" stroke="none" stroke-width="1.0"/>
+<text x="636.80" y="292.33" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.042</text>
+<rect x="669.28" y="340.66" width="53.16" height="87.34" fill="#1f77b4" stroke="none" stroke-width="1.0"/>
+<text x="695.86" y="333.66" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.028</text>
+<text x="639.75" y="464.00" font-size="12.5" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">T3  multisine 0.1/0.7 Hz</text>
+<rect x="772.65" y="364.70" width="53.16" height="63.30" fill="#2ca02c" stroke="none" stroke-width="1.0"/>
+<text x="799.23" y="357.70" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.020</text>
+<rect x="831.72" y="181.55" width="53.16" height="246.45" fill="#ff7f0e" stroke="none" stroke-width="1.0"/>
+<text x="858.30" y="174.55" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.080</text>
+<rect x="890.78" y="349.35" width="53.16" height="78.65" fill="#1f77b4" stroke="none" stroke-width="1.0"/>
+<text x="917.36" y="342.35" font-size="11" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0.025</text>
+<text x="861.25" y="464.00" font-size="12.5" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">T4  chirp 0.2-1.5 Hz</text>
+<rect x="750.00" y="56.00" width="250.00" height="78.00" fill="white" stroke="#bbb" stroke-width="1"/>
+<line x1="762" y1="72" x2="796" y2="72" stroke="#2ca02c" stroke-width="2.4"/>
+<text x="804.00" y="76.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="start" fill="#222" font-weight="normal">in-regime</text>
+<line x1="762" y1="94" x2="796" y2="94" stroke="#ff7f0e" stroke-width="2.4"/>
+<text x="804.00" y="98.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="start" fill="#222" font-weight="normal">low-speed protocol</text>
+<line x1="762" y1="116" x2="796" y2="116" stroke="#1f77b4" stroke-width="2.4"/>
+<text x="804.00" y="120.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="start" fill="#222" font-weight="normal">full-range protocol</text>
+</svg>

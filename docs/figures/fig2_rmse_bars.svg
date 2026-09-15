@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="500" viewBox="0 0 820 500">
+<rect width="820" height="500" fill="white"/>
+<rect x="78" y="46" width="714" height="368" fill="white" stroke="#333" stroke-width="1"/>
+<line x1="78.00" y1="46.00" x2="78.00" y2="414.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="78.00" y1="414.00" x2="78.00" y2="419.00" stroke="#333" stroke-width="1.0"/>
+<text x="78.00" y="434.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">0</text>
+<line x1="256.50" y1="46.00" x2="256.50" y2="414.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="256.50" y1="414.00" x2="256.50" y2="419.00" stroke="#333" stroke-width="1.0"/>
+<text x="256.50" y="434.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">1</text>
+<line x1="435.00" y1="46.00" x2="435.00" y2="414.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="435.00" y1="414.00" x2="435.00" y2="419.00" stroke="#333" stroke-width="1.0"/>
+<text x="435.00" y="434.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">2</text>
+<line x1="613.50" y1="46.00" x2="613.50" y2="414.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="613.50" y1="414.00" x2="613.50" y2="419.00" stroke="#333" stroke-width="1.0"/>
+<text x="613.50" y="434.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">3</text>
+<line x1="792.00" y1="46.00" x2="792.00" y2="414.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="792.00" y1="414.00" x2="792.00" y2="419.00" stroke="#333" stroke-width="1.0"/>
+<text x="792.00" y="434.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">4</text>
+<line x1="78.00" y1="414.00" x2="792.00" y2="414.00" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="73.00" y1="414.00" x2="78.00" y2="414.00" stroke="#333" stroke-width="1.0"/>
+<text x="69.00" y="418.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="end" fill="#222" font-weight="normal">0.000</text>
+<line x1="78.00" y1="329.99" x2="792.00" y2="329.99" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="73.00" y1="329.99" x2="78.00" y2="329.99" stroke="#333" stroke-width="1.0"/>
+<text x="69.00" y="333.99" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="end" fill="#222" font-weight="normal">0.050</text>
+<line x1="78.00" y1="245.98" x2="792.00" y2="245.98" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="73.00" y1="245.98" x2="78.00" y2="245.98" stroke="#333" stroke-width="1.0"/>
+<text x="69.00" y="249.98" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="end" fill="#222" font-weight="normal">0.100</text>
+<line x1="78.00" y1="161.98" x2="792.00" y2="161.98" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="73.00" y1="161.98" x2="78.00" y2="161.98" stroke="#333" stroke-width="1.0"/>
+<text x="69.00" y="165.98" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="end" fill="#222" font-weight="normal">0.150</text>
+<line x1="78.00" y1="77.97" x2="792.00" y2="77.97" stroke="#e6e6e6" stroke-width="1.0"/>
+<line x1="73.00" y1="77.97" x2="78.00" y2="77.97" stroke="#333" stroke-width="1.0"/>
+<text x="69.00" y="81.97" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="end" fill="#222" font-weight="normal">0.200</text>
+<text x="18" y="230.0" font-size="14" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" transform="rotate(-90 18 230.0)">RMSE [N*m]</text>
+<text x="435.00" y="26.00" font-size="16" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#111" font-weight="bold">Contact-phase torque estimation error (task T1)</text>
+<rect x="120.84" y="121.60" width="92.82" height="292.40" fill="#7f7f7f" stroke="none" stroke-width="1.0"/>
+<text x="167.25" y="113.60" font-size="13" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#111" font-weight="bold">0.1740</text>
+<text x="167.25" y="444.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">pure current</text>
+<text x="167.25" y="460.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">baseline</text>
+<rect x="299.34" y="102.14" width="92.82" height="311.86" fill="#1f77b4" stroke="none" stroke-width="1.0"/>
+<text x="345.75" y="94.14" font-size="13" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#111" font-weight="bold">0.1856</text>
+<text x="345.75" y="444.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">residual only</text>
+<text x="345.75" y="460.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">(no friction comp.)</text>
+<rect x="477.84" y="363.26" width="92.82" height="50.74" fill="#2ca02c" stroke="none" stroke-width="1.0"/>
+<text x="524.25" y="355.26" font-size="13" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#111" font-weight="bold">0.0302</text>
+<text x="524.25" y="444.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">identified friction</text>
+<text x="524.25" y="460.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">(this method)</text>
+<rect x="656.34" y="302.99" width="92.82" height="111.01" fill="#ff7f0e" stroke="none" stroke-width="1.0"/>
+<text x="702.75" y="294.99" font-size="13" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#111" font-weight="bold">0.0661</text>
+<text x="702.75" y="444.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">oracle</text>
+<text x="702.75" y="460.00" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#222" font-weight="normal">(true friction)</text>
+</svg>
