@@ -30,7 +30,7 @@ Python 标准库实现，不依赖 numpy / matplotlib。
     src/friction_rls.py       RLS 在线摩擦辨识
     src/simulate_stdlib.py    主程序，零依赖
     docs/figures/             图与指标输出
-    experiments.md               实验记录（做过的尝试、失败的假设）
+    experiments.md            实验记录（做过的尝试、失败的假设）
 
 ## 结果
 
@@ -70,4 +70,3 @@ De Luca & Mattone 的广义动量观测器；Canudas de Wit 的 LuGre 摩擦模�
 ## License
 
 MIT
-
